@@ -1,4 +1,11 @@
 [slide]
+# Programming Languages, Compilers, Interpreters - Video
+
+[vimeo-video videoId="342590118" startTimeInSeconds="3430" endTimeInSeconds="3550" /]
+
+[/slide]
+
+[slide]
 # Programming Languages, Compilers, Interpreters
 The **programming language** defines a set of rules (syntax)
 
