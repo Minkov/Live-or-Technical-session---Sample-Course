@@ -1,4 +1,12 @@
 [slide]
+# What is Coding? - Video
+Training Session
+
+[vimeo-video videoId="342590118" startTimeInSeconds="1680" endTimeInSeconds="3570" /]
+
+[/slide]
+
+[slide]
 # What is Coding?
 **Coding** means to give **commands** to tell the computer what to do
 
